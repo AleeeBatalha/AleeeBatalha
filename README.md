@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnc0c3N2MThmMHR4b2pja3FvamsyeXZpYTd3MzlkYTc5YnEyMm5qcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dz61PRqACveZq/giphy.gif)" width="40" height="40" />
 <div  align="center" style="margin-bottom:100px">
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=AleeeBatalha&show_icons=true&theme=radical&layout=compact" />
  </div>
