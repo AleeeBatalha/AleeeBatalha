@@ -1,5 +1,3 @@
-<iframe src="https://giphy.com/embed/GDG1MCvcotq36" width="480" height="264" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dr-house-lold-GDG1MCvcotq36">via GIPHY</a></p>
-
 <div  align="center" style="margin-bottom:100px">
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=AleeeBatalha&show_icons=true&theme=radical&layout=compact" />
  </div>
