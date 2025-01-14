@@ -18,6 +18,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,react,spring)](https://skillicons.dev)
 
+#### - Linguagens/Frameworks nas quais estou estudando: 
+
+[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+
+
 #### - Banco de Dados em que já trabalhei:
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,sqlite)](https://skillicons.dev)
