@@ -10,7 +10,7 @@
 - 🌱 Curso Sistemas de Informação na Universidade Federal de Santa Catarina - UFSC;
 - 📫 Você pode me encontrar pelos links da minha bio.
 
-#### - Linguagens/Frameworks nas quais tenho afinidade: 
+#### - Linguagens/Frameworks nas quais já trabalhei: 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,python,java,spring,vite)](https://skillicons.dev)
 
