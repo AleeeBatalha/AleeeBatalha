@@ -23,10 +23,10 @@
 [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 
 
-#### - Banco de Dados em que já trabalhei:
+#### - Banco de Dados na qual já trabalhei:
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,sqlite)](https://skillicons.dev)
 
-#### - IDEs que já tive contato:
+#### - IDEs na qual já tive contato:
 
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
