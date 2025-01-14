@@ -12,7 +12,7 @@
 
 #### - Linguagens/Frameworks das quais tenho tido algum contato ao longo da minha formação acadêmica: 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,python,java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,java,spring)](https://skillicons.dev)
 
 #### - Projetos complemantares na formação como matéria complementar: 
 
