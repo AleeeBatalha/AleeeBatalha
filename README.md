@@ -12,20 +12,16 @@
 
 #### - Linguagens/Frameworks das quais tenho tido algum contato ao longo da minha formação acadêmica: 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,python,java,spring)](https://skillicons.dev)
 
 #### - Projetos complemantares na formação como matéria complementar: 
 
-[![My Skills](https://skillicons.dev/icons?i=godot,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 
 #### - Banco de Dados apresentados:
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-
-#### - Ferramentas aprendidas durante a faculdade:
-
-[![My Skills](https://skillicons.dev/icons?i=docker,figma,linux,nginx,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite)](https://skillicons.dev)
 
 #### - IDEs que já tive contato:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
