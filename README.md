@@ -6,19 +6,19 @@
 ### Olá, eu me chamo Alexandre Batalha 👋
 
 
-- 🔭 Trabalho com automação de tarefas utilizando Power Automate e auxilio no desenvolvimento de painéis no Power BI na COTESA Engenharia;
+- 🎓 Sou Técnico em Análise e Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industrial - SENAI/SC;
 - 🌱 Curso Sistemas de Informação na Universidade Federal de Santa Catarina - UFSC;
 - 📫 Você pode me encontrar pelos links da minha bio.
 
-#### - Linguagens/Frameworks das quais tenho tido algum contato ao longo da minha formação acadêmica: 
+#### - Linguagens/Frameworks nas quais tenho afinidade: 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,python,java,spring,vite)](https://skillicons.dev)
 
-#### - Projetos complemantares na formação como matéria complementar: 
+#### - Linguagens/Frameworks em que estou estudando atualmente: 
 
 [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 
-#### - Banco de Dados apresentados:
+#### - Banco de Dados em que já trabalhei:
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,sqlite)](https://skillicons.dev)
 
