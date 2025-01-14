@@ -10,13 +10,13 @@
 - 🌱 Curso Sistemas de Informação na Universidade Federal de Santa Catarina - UFSC;
 - 📫 Você pode me encontrar pelos links da minha bio.
 
-#### - Linguagens/Frameworks nas quais já trabalhei: 
+#### - Linguagens nas quais já trabalhei: 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,python,java,spring,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,java)](https://skillicons.dev)
 
-#### - Linguagens/Frameworks em que estou estudando atualmente: 
+#### - Frameworks nas quais já trabalhei: 
 
-[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,spring)](https://skillicons.dev)
 
 #### - Banco de Dados em que já trabalhei:
 
